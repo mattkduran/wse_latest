@@ -2,19 +2,19 @@
 <FileZilla3>
     <Servers>
         <Server>
-            <Host>wse3.player.tv.br</Host>
+            <Host>[HOSTNAME]</Host>
             <Port>21</Port>
             <Protocol>ftp</Protocol>
             <Type>0</Type>
-            <User>marcelocorrea@wse3.player.tv.br</User>
-            <Pass>Marsc2014</Pass>
+            <User>[USERNAME]</User>
+            <Pass>[PASSWORD]</Pass>
             <Logontype>1</Logontype>
             <TimezoneOffset>0</TimezoneOffset>
             <PasvMode>MODE_DEFAULT</PasvMode>
             <MaximumMultipleConnections>0</MaximumMultipleConnections>
             <EncodingType>Auto</EncodingType>
             <BypassProxy>0</BypassProxy>
-            <Name>marcelocorrea@wse3.player.tv.br</Name>
+            <Name>[NAME]</Name>
             <Comments/>
             <LocalDir/>
             <RemoteDir/>
